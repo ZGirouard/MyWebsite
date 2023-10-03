@@ -1,0 +1,94 @@
+<!Doctype html>
+<html lang = "en-us">
+<head>
+	<meta charset = "UTF - 8">
+	<title> "My Website - Contact" </title>
+</head>
+
+<style type="text/css">
+	img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+	button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	background-color: lightgray;
+	border: ridge;
+	border-color: black;
+	width: 100px;
+	height: 30px;
+	}
+
+	p{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: serif;
+	width: 720px;
+	}
+
+	h1{
+	display: block;
+	border: 3px solid;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+	padding: 20px;
+	text-align: center;
+	}
+
+	h3{
+	display: block;
+	width: 300px;
+	border: 2px solid;
+	padding: 5px;
+	background-color: rgb(153, 168, 167, .25);
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 1.15em;
+	}
+
+	h4{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.05em;
+	}
+
+	h5{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: .95em;
+	}
+
+	h6{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+	body {
+		background-image: url(https://www.philipgordts.com/wp-content/uploads/2018/03/Grunge-Seamless-Pattern-For-Website-Background.jpg);
+	}
+</style>
+
+<body>
+	<font size="+1">
+	<h1 style="text-align: center;"> CONTACT </h1>
+	<p> Email: zgirouard2@huskers.unl.edu </p>
+	<p> Phone: (605)929-0041 </p>
+
+	<br>
+	<button onclick="window.location.href = 'file:///C:/Users/zjg51/eclipse-workspace/my_website.html';"> BACK </button>
+</font>
+</body>
