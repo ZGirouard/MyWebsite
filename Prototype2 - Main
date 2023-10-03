@@ -1,0 +1,167 @@
+<!Doctype html>
+<html lang = "en-us">
+<head>
+	<meta charset = "UTF - 8">
+	<title> "My Website - Home" </title>
+</head>
+
+<style type="text/css">
+	img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+	button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	background-color: lightgray;
+	border: ridge;
+	border-color: black;
+	width: 100px;
+	height: 30px;
+	}
+
+	p{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: serif;
+	width: 720px;
+	}
+
+	h1{
+	display: block;
+	border: 3px solid;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+	padding: 20px;
+	text-align: center;
+	}
+
+	h3{
+	display: block;
+	width: 300px;
+	border: 2px solid;
+	padding: 5px;
+	background-color: rgb(153, 168, 167, .25);
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 1.15em;
+	}
+
+	h4{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.05em;
+	}
+
+	h5{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: .95em;
+	}
+
+	h6{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+	body {
+		background-image: url(https://www.philipgordts.com/wp-content/uploads/2018/03/Grunge-Seamless-Pattern-For-Website-Background.jpg);
+	}
+</style>
+
+<body>
+	<font size="+1">
+	<h1 style="text-align: center;"> Zach Girouard </h1>
+
+	<h4> Current GPA: 3.94 </h4>
+		<p> I am a Sociology and Computer Science double major at the University of Nebraska Lincoln. I have a special interest in UI/UX development and AI. This website was created from scratch by Zach Girouard. </p>
+
+	<br>
+	<button onclick="window.location.href = 'file:///C:/Users/zjg51/eclipse-workspace/my_website_about.html';"> ABOUT ME </button>
+
+	<br>
+	<button onclick="window.location.href = 'file:///C:/Users/zjg51/eclipse-workspace/my_website_contact.html';"> CONTACT </button>
+
+	<br>
+	<br>
+	<h1> RESUME </h1>
+	<h3> Coding Languages </h3>
+		<p> HTML - Intermediate </p>
+		<p> CSS - Intermediate </p>
+		<p> Python - Intermediate </p>
+		<p> Java - Intermediate </p>
+		<p> AWS - Beginner </p>
+
+	<br>
+	<h3> Software I'm Proficient In </h3>
+		<p> VSCode, Sublime Text, GitHub, Microsoft Excel, Unix, Adobe Illustrator </p>
+
+	<br>
+	<h3> Education </h3>
+		<h4> Roosevelt High School </h4>
+			<h5> Aug 2018 - May 2022</h5>
+				<p> 4.5 GPA, Graduated 2nd of 450, 11 AP Classes </p>
+
+		<h4> University of Nebraska - Lincoln </h4>
+			<h5> Aug 2022 - May 2026</h5>
+				<p> B.S. in Computer Science and Sociology </p>
+				<p> Dean's List Fall 2022 and Spring 2023</p>
+
+	<br>
+	<h3> Extracurriculars </h3>
+		<h4> UNL Club Dodgeball </h4>
+			<p> Attended weekly practices as a member of the club dodgeball team. Competed in multiple tournaments for a national ranking </p>
+		<h4> Intialize UNL </h4>
+			<p> Created and administered a lesson plan to teach elementary schoolers how to build their own website. Learned HTML and CSS for this project. </p>
+
+	<br>
+	<h3> Work History </h3>
+		<h4> UNL Bureau of Sociological Research - Telephone Interviewer </h4>
+			<h5> Sept 2023 - Current </h5>
+			<h5> Lincoln, Nebraska </h5>
+				<p> Dialed the public and collected research about health and saftey. Answered questions and clarified questions as appropriate.</p>
+
+		<br>
+		<h4> Wild Water West - Pit Crew Supervisor </h4>
+			<h5> May 2023 - August 2023 </h5>
+			<h5> Sioux Falls, South Dakota </h5>
+				<p> Instructed and supervised employees in the go-kart area to ensure safety standards and proper procedure were followed. Answered questions customers had about park policies, and occasionally settled disputes between customers. Contacted employees if they didn't show up to work, and came up with appropriate solutions. Frequently changed tires and belts, filled oil and gas, and did other maintenance on go-karts. </p>
+
+		<br>
+		<h4> YMCA of Lincoln - Lifeguard </h4>
+			<h5> Feb 2023 - May 2023 </h5>
+			<h5> Lincoln, Nebraska </h5>
+				<p> Worked with other guards to maintain safety around the pool. Attended CPR training, water rescue training, and inservice. Tested water chemical levels for PH, chlorine, and alkalinity and added chemicals as appropriate. </p>
+
+
+		<br>
+		<h4> Wild Water West - Pit Crew </h4>
+			<h5> May 2022 - Aug 2022 </h5>
+			<h5> Sioux Falls, South Dakota </h5>
+				<p>  Worked with other pit crew members to ensure that attractions were run in a timely manner. Did essential maintenance on go-karts and bumper boats. </p>
+
+		<br>
+		<h4> Thunder Road of Sioux Falls - Shift Lead </h4>
+			<h5> Jul 2020 - May 2021 </h5>
+			<h5> Sioux Falls, South Dakota </h5>
+				<p> Worked with other employees to run attractions, maintain safety standards, and clean the park. Additionally, used POS systems to sell product, and helped create invoices for events. Stocked inventory and kept track of deliveries. </p>
+
+	<br>
+	<h3> Notable Courses </h3>
+		<p> Data Structures and Algorithms, Computer Science I & II, Technical Writing, Discrete Math, Calculus I & II, Linear Algebra, Unix Systems </p>
+
+</font>
+</body>
