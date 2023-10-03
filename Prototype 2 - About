@@ -1,0 +1,158 @@
+<!Doctype html>
+<html lang = "en-us">
+<head>
+	<meta charset = "UTF - 8">
+	<title> "My Website - About" </title>
+</head>
+
+<style type="text/css">
+	img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid;
+	}
+
+	button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	background-color: lightgray;
+	border: ridge;
+	border-color: black;
+	width: 100px;
+	height: 30px;
+	}
+
+	p{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: serif;
+	width: 640px;
+	font-size: "+1";
+	}
+
+	h1{
+	display: block;
+	border: 3px solid;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+	padding: 20px;
+	text-align: center;
+	}
+
+	h3{
+	display: block;
+	width: 250px;
+	border: 2px solid;
+	padding: 5px;
+	background-color: rgb(153, 168, 167, .25);
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 1.15em;
+	}
+
+	h4{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.05em;
+	}
+
+	h5{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: .95em;
+	}
+
+	h6{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+	body {
+		background-image: url(https://www.philipgordts.com/wp-content/uploads/2018/03/Grunge-Seamless-Pattern-For-Website-Background.jpg);
+	}
+
+</style>
+
+<body>
+	<font size="+1">
+	<h1 style="text-align: center;"> About Me </h1>
+	<p> Here you will find all the non-professional information about me including what I'm passionate about, my hobbies, and much more. For a little background, I'm 19 and originally from Sioux Falls, South Dakota. </p>
+
+	<br>
+	<button onclick="window.location.href = 'file:///C:/Users/zjg51/eclipse-workspace/my_website.html';"> BACK </button>
+
+	<br>
+	<br>
+	<h1> Music </h1>
+	<p> Music is a huge part of my life. I almost always have headphones in, and I've been to tons of concerts </p>
+	<p> Some of my favorite artists are: </p>
+
+	<h3> Motley Crue </h3>
+	<img src="https://i.iheart.com/v3/re/new_assets/5d64123e95aa4b99faaf7012" alt="Motley Crue"
+	width="300"
+	height="200"
+	>
+	<p> Favorite song: Same Ol' Situation (S.O.S) </p>
+
+	<h3> The Backseat Lovers </h3>
+	<img src="https://bigtakeover.com/images/26084.jpg" alt="The Backseat Lovers"
+	width="300"
+	height="270"
+	>
+	<p> Favorite song: Heavy </p>
+
+	<h3> Quarters of Change </h3>
+	<img src="https://i.scdn.co/image/ab6761610000e5eb3951e97e4b36fc8dfced5fbf" alt="The Backseat Lovers"
+	width="300"
+	height="250"
+	>
+	<p> Favorite song: Jaded </p>
+
+	<h3> Tyler, the Creator </h3>
+	<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/07/10/15/tyler-the-creator.jpg" alt="Tyler, the Creator"
+	width="300"
+	height="200"
+	>
+	<p> Favorite song: NEW MAGIC WAND </p>
+
+	<h3> Dominic Fike </h3>
+	<img src="https://people.com/thmb/GcEIlBh8t35cgz6HSiqN_2cWiEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(705x126:707x128)/dominic-fike-apple-music-090423-2-0806b640c9424aada6cad9d2a759b265.jpg" alt="Dominic Fike"
+	width="300"
+	height="200"
+	>
+	<p> Favorite song: Frisky </p>
+
+	<h3> Mac Miller </h3>
+	<img src="https://www.rollingstone.com/wp-content/uploads/2018/11/mac-miller-left-behind.jpg" alt="Mac Miller"
+	width="300"
+	height="200"
+	>
+	<p> Favorite song: Jet Fuel</p>
+
+	<br>
+	<br>
+	<h1> Hobbies </h1>
+	<h3> Skateboarding </h3>
+	<p> I'm still learning how to do a kickflip... </p>
+	<h3> Longboarding </h3>
+	<p> It's how I get to school everyday. </p>
+	<h3> Lifting Weights </h3>
+	<p> I can bench my body weight which is pretty cool. </p>
+	<h3> Dodgeball </h3>
+	<p> Our club team is ranked top 10 in the nation. </p>
+	<h3> College Football </h3>
+	<p> The Huskers are definitely not top 10 in the nation... </p>
+</font>
+</body>
